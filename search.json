@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Luis Fernando Mendoza’s Resume",
-    "section": "",
-    "text": "Business Intelligence, Data Analyst\n\ndatascience@byui.edu | Data Science Program | LinkedIn | GitHub\n\n\n\nExpected April 2025 Brigham Young University - Idaho, Rexburg, ID\n\nMajoring in Business Analytics\nMainoring in Data Science\n\n\n\n\nJan 2024 - Present · 4 mos Data Analyst Intern, Salt Lake City, UT\n• Conducted SQL queries in Databricks, resulting in comprehensive financial analysis across 500+ columns and 15 tables for church properties in the U.S. and Canada. • Implemented an Excel form with xlookups and lists, streamlining the collection of security code information for church properties and enhancing data accuracy. • Developed an online Microsoft Form to evaluate landscape quality for church properties nationwide, providing valuable insights for property management decisions. • Optimized PowerBI Power Query efficiency through strategic merges, transposing, filtering, and Dataflow sourcing, leading to faster data processing and improved reporting capabilities. • Enhanced code optimization in PowerQuery Advance Editor and experimented with compressing PowerBI Reports into .json files using Python, resulting in streamlined data management processes. • Developed and deployed a custom Microsoft Power App that successfully automated eight critical processes, resulting in significant time and resource savings. • Mastered the creation of advanced custom DAX columns in PowerBI reporting, enabling more accurate and insightful financial analysis. • Developed PowerBI reports to effectively communicate high-level financial and work order information to stakeholders across the U.S. and Canada, facilitating data-driven decision-making.\nApr 2023- Jan 2024 System & Data Analyst, Rexburg, ID\n• Experienced Data Analyst specializing in Power BI for dynamic dashboard creation. Proficient in DAX measures, bookmarks, drillthroughs, and other Power BI tools. • Developed and maintained Power BI performance reporting systems, delivering crucial insights to over 1000 daily customers. • Optimized 70% of all Power BI visuals for mobile view, ensuring seamless access to critical data on the go. Enhanced accessibility and usability of reports for stakeholders across different platforms. • Cut web incidents through CRM TeamDynamix Software rate by 12%, using technical, analytical, and communication skills to accurately identify user needs and provide effective solutions.\nOct 2018 - Oct 2019 Operations Coordinator & Business Consultant, Bogota, COL\n• Coordinated the opening of the company with the hub, the operational and legal system in 2 months. • Collaborated with the manager to Interview more than 100 job applicants in two weeks and hired 30. • Improved the financial system of more than 150 businesses in 6 months. • Managed a team of 15 financial analysts, driving improvements in the financial systems of over 1000 small companies in six months\nDec 2014 - Sep 2018 Founder & Business Owner, Bogota, COL\n• Managed the sales of more than 5,000 product units in 4 years, loyalty to more than 50 customers, and negotiated with big supermarkets. • Built company legally in 2 months, designed 3 innovative products, and got from the INVIMA the Sanitary Registration for Food and Beverage in 1 year. • Controlled business finances, made advertising, and supervised the factory´s staff for over 4 years.\nOct 2011- Oct 2013 International Volunteer, Puebla, MX\n• Maintained 80+ hour work week for two years, teaching Christian principles to hundreds of families and individuals. • Supervised, motivated, and trained 160 other missionaries in communication, conflict-resolution, and leadership skills"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Luis Fernando Mendoza’s Resume",
-    "section": "",
-    "text": "Expected April 2025 Brigham Young University - Idaho, Rexburg, ID\n\nMajoring in Business Analytics\nMainoring in Data Science"
-  },
-  {
-    "objectID": "resume.html#service-and-work-history",
-    "href": "resume.html#service-and-work-history",
-    "title": "Luis Fernando Mendoza’s Resume",
-    "section": "",
-    "text": "Jan 2024 - Present · 4 mos Data Analyst Intern, Salt Lake City, UT\n• Conducted SQL queries in Databricks, resulting in comprehensive financial analysis across 500+ columns and 15 tables for church properties in the U.S. and Canada. • Implemented an Excel form with xlookups and lists, streamlining the collection of security code information for church properties and enhancing data accuracy. • Developed an online Microsoft Form to evaluate landscape quality for church properties nationwide, providing valuable insights for property management decisions. • Optimized PowerBI Power Query efficiency through strategic merges, transposing, filtering, and Dataflow sourcing, leading to faster data processing and improved reporting capabilities. • Enhanced code optimization in PowerQuery Advance Editor and experimented with compressing PowerBI Reports into .json files using Python, resulting in streamlined data management processes. • Developed and deployed a custom Microsoft Power App that successfully automated eight critical processes, resulting in significant time and resource savings. • Mastered the creation of advanced custom DAX columns in PowerBI reporting, enabling more accurate and insightful financial analysis. • Developed PowerBI reports to effectively communicate high-level financial and work order information to stakeholders across the U.S. and Canada, facilitating data-driven decision-making.\nApr 2023- Jan 2024 System & Data Analyst, Rexburg, ID\n• Experienced Data Analyst specializing in Power BI for dynamic dashboard creation. Proficient in DAX measures, bookmarks, drillthroughs, and other Power BI tools. • Developed and maintained Power BI performance reporting systems, delivering crucial insights to over 1000 daily customers. • Optimized 70% of all Power BI visuals for mobile view, ensuring seamless access to critical data on the go. Enhanced accessibility and usability of reports for stakeholders across different platforms. • Cut web incidents through CRM TeamDynamix Software rate by 12%, using technical, analytical, and communication skills to accurately identify user needs and provide effective solutions.\nOct 2018 - Oct 2019 Operations Coordinator & Business Consultant, Bogota, COL\n• Coordinated the opening of the company with the hub, the operational and legal system in 2 months. • Collaborated with the manager to Interview more than 100 job applicants in two weeks and hired 30. • Improved the financial system of more than 150 businesses in 6 months. • Managed a team of 15 financial analysts, driving improvements in the financial systems of over 1000 small companies in six months\nDec 2014 - Sep 2018 Founder & Business Owner, Bogota, COL\n• Managed the sales of more than 5,000 product units in 4 years, loyalty to more than 50 customers, and negotiated with big supermarkets. • Built company legally in 2 months, designed 3 innovative products, and got from the INVIMA the Sanitary Registration for Food and Beverage in 1 year. • Controlled business finances, made advertising, and supervised the factory´s staff for over 4 years.\nOct 2011- Oct 2013 International Volunteer, Puebla, MX\n• Maintained 80+ hour work week for two years, teaching Christian principles to hundreds of families and individuals. • Supervised, motivated, and trained 160 other missionaries in communication, conflict-resolution, and leadership skills"
-  },
-  {
-    "objectID": "Templates/DS350_Template.html",
-    "href": "Templates/DS350_Template.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "TODO: Update with template from Paul\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "ml.html",
     "href": "ml.html",
     "title": "about me",
@@ -42,6 +14,98 @@
     "text": "MarkDown Basics"
   },
   {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Projects/project1.html",
+    "href": "Projects/project1.html",
+    "title": "Luis Fernando Mendoza Data Science Portfolio",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Projects/project2.html",
+    "href": "Projects/project2.html",
+    "title": "Luis Fernando Mendoza Data Science Portfolio",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Templates/DS250_Template.html",
+    "href": "Templates/DS250_Template.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Templates/DS350_Template.html",
+    "href": "Templates/DS350_Template.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "TODO: Update with template from Paul\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "Projects/project4.html",
     "href": "Projects/project4.html",
     "title": "Luis Fernando Mendoza Data Science Portfolio",
@@ -53,14 +117,25 @@
     ]
   },
   {
-    "objectID": "Projects/project1.html",
-    "href": "Projects/project1.html",
+    "objectID": "Projects/project3.html",
+    "href": "Projects/project3.html",
     "title": "Luis Fernando Mendoza Data Science Portfolio",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "DS250 Projects",
-      "Project 1"
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Projects/project5.html",
+    "href": "Projects/project5.html",
+    "title": "Luis Fernando Mendoza Data Science Portfolio",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 5"
     ]
   },
   {
@@ -84,32 +159,18 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "competition.html",
+    "href": "competition.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "MarkDown Basics\n#’ — #’ title: Palmer Penguins #’ author: Norah Jones #’ date: 3/12/23 #’ format: html #’ —\nlibrary(palmerpenguins)\n#’ ## Exploring the data #’ See ?@fig-bill-sizes for an exploration of bill sizes by species.\n#| label: fig-bill-sizes #| fig-cap: Bill Sizes by Species #| warning: false library(ggplot2) ggplot(data = penguins, aes(x = bill_length_mm, y = bill_depth_mm, group = species)) + geom_point(aes(color = species, shape = species), size = 3, alpha = 0.8) + labs(title = “Penguin bill dimensions”, subtitle = “Bill length and depth for Adelie, Chinstrap and Gentoo Penguins at Palmer Station LTER”, x = “Bill length (mm)”, y = “Bill depth (mm)”, color = “Penguin species”, shape = “Penguin species”)"
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
+    "text": "MarkDown Basics\n#’ — #’ title: Palmer Penguins #’ author: Norah Jones #’ date: 3/12/23 #’ format: html #’ —\nlibrary(palmerpenguins)\n#’ ## Exploring the data #’ See ?@fig-bill-sizes for an exploration of bill sizes by species.\n#| label: fig-bill-sizes #| fig-cap: Bill Sizes by Species #| warning: false library(ggplot2) ggplot(data = penguins, aes(x = bill_length_mm, y = bill_depth_mm, group = species)) + geom_point(aes(color = species, shape = species), size = 3, alpha = 0.8) + labs(title = “Penguin bill dimensions”, subtitle = “Bill length and depth for Adelie, Chinstrap and Gentoo Penguins at Palmer Station LTER”, x = “Bill length (mm)”, y = “Bill depth (mm)”, color = “Penguin species”, shape = “Penguin species”)"
   },
   {
     "objectID": "story_telling.html",
@@ -126,85 +187,24 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Luis Fernando Mendoza’s Resume",
     "section": "",
-    "text": "MarkDown Basics\n#’ — #’ title: Palmer Penguins #’ author: Norah Jones #’ date: 3/12/23 #’ format: html #’ —\nlibrary(palmerpenguins)\n#’ ## Exploring the data #’ See ?@fig-bill-sizes for an exploration of bill sizes by species.\n#| label: fig-bill-sizes #| fig-cap: Bill Sizes by Species #| warning: false library(ggplot2) ggplot(data = penguins, aes(x = bill_length_mm, y = bill_depth_mm, group = species)) + geom_point(aes(color = species, shape = species), size = 3, alpha = 0.8) + labs(title = “Penguin bill dimensions”, subtitle = “Bill length and depth for Adelie, Chinstrap and Gentoo Penguins at Palmer Station LTER”, x = “Bill length (mm)”, y = “Bill depth (mm)”, color = “Penguin species”, shape = “Penguin species”)"
+    "text": "Business Intelligence, Data Analyst\n\ndatascience@byui.edu | Data Science Program | LinkedIn | GitHub\n\n\n\nExpected April 2025 Brigham Young University - Idaho, Rexburg, ID\n\nMajoring in Business Analytics\nMainoring in Data Science\n\n\n\n\nJan 2024 - Present · 4 mos Data Analyst Intern, Salt Lake City, UT\n• Conducted SQL queries in Databricks, resulting in comprehensive financial analysis across 500+ columns and 15 tables for church properties in the U.S. and Canada. • Implemented an Excel form with xlookups and lists, streamlining the collection of security code information for church properties and enhancing data accuracy. • Developed an online Microsoft Form to evaluate landscape quality for church properties nationwide, providing valuable insights for property management decisions. • Optimized PowerBI Power Query efficiency through strategic merges, transposing, filtering, and Dataflow sourcing, leading to faster data processing and improved reporting capabilities. • Enhanced code optimization in PowerQuery Advance Editor and experimented with compressing PowerBI Reports into .json files using Python, resulting in streamlined data management processes. • Developed and deployed a custom Microsoft Power App that successfully automated eight critical processes, resulting in significant time and resource savings. • Mastered the creation of advanced custom DAX columns in PowerBI reporting, enabling more accurate and insightful financial analysis. • Developed PowerBI reports to effectively communicate high-level financial and work order information to stakeholders across the U.S. and Canada, facilitating data-driven decision-making.\nApr 2023- Jan 2024 System & Data Analyst, Rexburg, ID\n• Experienced Data Analyst specializing in Power BI for dynamic dashboard creation. Proficient in DAX measures, bookmarks, drillthroughs, and other Power BI tools. • Developed and maintained Power BI performance reporting systems, delivering crucial insights to over 1000 daily customers. • Optimized 70% of all Power BI visuals for mobile view, ensuring seamless access to critical data on the go. Enhanced accessibility and usability of reports for stakeholders across different platforms. • Cut web incidents through CRM TeamDynamix Software rate by 12%, using technical, analytical, and communication skills to accurately identify user needs and provide effective solutions.\nOct 2018 - Oct 2019 Operations Coordinator & Business Consultant, Bogota, COL\n• Coordinated the opening of the company with the hub, the operational and legal system in 2 months. • Collaborated with the manager to Interview more than 100 job applicants in two weeks and hired 30. • Improved the financial system of more than 150 businesses in 6 months. • Managed a team of 15 financial analysts, driving improvements in the financial systems of over 1000 small companies in six months\nDec 2014 - Sep 2018 Founder & Business Owner, Bogota, COL\n• Managed the sales of more than 5,000 product units in 4 years, loyalty to more than 50 customers, and negotiated with big supermarkets. • Built company legally in 2 months, designed 3 innovative products, and got from the INVIMA the Sanitary Registration for Food and Beverage in 1 year. • Controlled business finances, made advertising, and supervised the factory´s staff for over 4 years.\nOct 2011- Oct 2013 International Volunteer, Puebla, MX\n• Maintained 80+ hour work week for two years, teaching Christian principles to hundreds of families and individuals. • Supervised, motivated, and trained 160 other missionaries in communication, conflict-resolution, and leadership skills"
   },
   {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Luis Fernando Mendoza’s Resume",
     "section": "",
-    "text": "MarkDown Basics\n#’ — #’ title: Palmer Penguins #’ author: Norah Jones #’ date: 3/12/23 #’ format: html #’ —\nlibrary(palmerpenguins)\n#’ ## Exploring the data #’ See ?@fig-bill-sizes for an exploration of bill sizes by species.\n#| label: fig-bill-sizes #| fig-cap: Bill Sizes by Species #| warning: false library(ggplot2) ggplot(data = penguins, aes(x = bill_length_mm, y = bill_depth_mm, group = species)) + geom_point(aes(color = species, shape = species), size = 3, alpha = 0.8) + labs(title = “Penguin bill dimensions”, subtitle = “Bill length and depth for Adelie, Chinstrap and Gentoo Penguins at Palmer Station LTER”, x = “Bill length (mm)”, y = “Bill depth (mm)”, color = “Penguin species”, shape = “Penguin species”)"
+    "text": "Expected April 2025 Brigham Young University - Idaho, Rexburg, ID\n\nMajoring in Business Analytics\nMainoring in Data Science"
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
+    "objectID": "resume.html#service-and-work-history",
+    "href": "resume.html#service-and-work-history",
+    "title": "Luis Fernando Mendoza’s Resume",
     "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Projects/project3.html",
-    "href": "Projects/project3.html",
-    "title": "Luis Fernando Mendoza Data Science Portfolio",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Projects/project2.html",
-    "href": "Projects/project2.html",
-    "title": "Luis Fernando Mendoza Data Science Portfolio",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Projects/project5.html",
-    "href": "Projects/project5.html",
-    "title": "Luis Fernando Mendoza Data Science Portfolio",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Templates/DS250_Template.html",
-    "href": "Templates/DS250_Template.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n\n\n Back to top"
+    "text": "Jan 2024 - Present · 4 mos Data Analyst Intern, Salt Lake City, UT\n• Conducted SQL queries in Databricks, resulting in comprehensive financial analysis across 500+ columns and 15 tables for church properties in the U.S. and Canada. • Implemented an Excel form with xlookups and lists, streamlining the collection of security code information for church properties and enhancing data accuracy. • Developed an online Microsoft Form to evaluate landscape quality for church properties nationwide, providing valuable insights for property management decisions. • Optimized PowerBI Power Query efficiency through strategic merges, transposing, filtering, and Dataflow sourcing, leading to faster data processing and improved reporting capabilities. • Enhanced code optimization in PowerQuery Advance Editor and experimented with compressing PowerBI Reports into .json files using Python, resulting in streamlined data management processes. • Developed and deployed a custom Microsoft Power App that successfully automated eight critical processes, resulting in significant time and resource savings. • Mastered the creation of advanced custom DAX columns in PowerBI reporting, enabling more accurate and insightful financial analysis. • Developed PowerBI reports to effectively communicate high-level financial and work order information to stakeholders across the U.S. and Canada, facilitating data-driven decision-making.\nApr 2023- Jan 2024 System & Data Analyst, Rexburg, ID\n• Experienced Data Analyst specializing in Power BI for dynamic dashboard creation. Proficient in DAX measures, bookmarks, drillthroughs, and other Power BI tools. • Developed and maintained Power BI performance reporting systems, delivering crucial insights to over 1000 daily customers. • Optimized 70% of all Power BI visuals for mobile view, ensuring seamless access to critical data on the go. Enhanced accessibility and usability of reports for stakeholders across different platforms. • Cut web incidents through CRM TeamDynamix Software rate by 12%, using technical, analytical, and communication skills to accurately identify user needs and provide effective solutions.\nOct 2018 - Oct 2019 Operations Coordinator & Business Consultant, Bogota, COL\n• Coordinated the opening of the company with the hub, the operational and legal system in 2 months. • Collaborated with the manager to Interview more than 100 job applicants in two weeks and hired 30. • Improved the financial system of more than 150 businesses in 6 months. • Managed a team of 15 financial analysts, driving improvements in the financial systems of over 1000 small companies in six months\nDec 2014 - Sep 2018 Founder & Business Owner, Bogota, COL\n• Managed the sales of more than 5,000 product units in 4 years, loyalty to more than 50 customers, and negotiated with big supermarkets. • Built company legally in 2 months, designed 3 innovative products, and got from the INVIMA the Sanitary Registration for Food and Beverage in 1 year. • Controlled business finances, made advertising, and supervised the factory´s staff for over 4 years.\nOct 2011- Oct 2013 International Volunteer, Puebla, MX\n• Maintained 80+ hour work week for two years, teaching Christian principles to hundreds of families and individuals. • Supervised, motivated, and trained 160 other missionaries in communication, conflict-resolution, and leadership skills"
   }
 ]
