@@ -1,7 +1,7 @@
 ---
-title: "Client Report - [Insert Project Title]"
+title: "Client Report - Project 1 "
 subtitle: "Course DS 250"
-author: "[STUDENT NAME]"
+author: "Fernando Mendoza"
 format:
   html:
     self-contained: true
@@ -25,4 +25,154 @@ execute:
     
 ---
 
-### Paste in a template
+```{python}
+# Import: libraries
+ 
+import pandas as pd
+import numpy as np
+import plotly.express as px
+```
+
+
+## Elevator pitch
+
+Do you know how many people in USA have your same exact name?
+Would you like to know what is the Christian name more used in the last century?
+If you want to know the answer to these and more questions let me show you the data analysis I have done.
+
+
+```{python}
+# Get data to read and modify.
+df = pd.read_csv("https://raw.githubusercontent.com/byuidatascience/data4names/master/data-raw/names_year/names_year.csv")
+```
+
+__Highlight the Questions and Tasks__
+
+## QUESTION|TASK 1
+
+How does your name at your birth year compare to its use historically?
+
+I was born in 1992 and during that year about 1400 boys were named by Fernando, which is my name. The States of California and Texas reported the highest amount of people using the name Fernando.
+
+```{python}
+# Filter data to get the name Fernando and the year 1992.
+filtered_df = df[(df.iloc[:,0] == 'Fernando') & (df.iloc[:, 1] == 1992)]
+
+# Print 5000 rows with a table formating.
+print(filtered_df
+  .head(50000)
+  .to_markdown(index=False))
+
+```
+
+This bar chart shows how Fernando's name usage has been increasing since 1913 to its top in 2007. Since 2008 it started to decrease.
+
+```{python}
+# Filter data to get the name Fernando throughout all the years.
+filtered_df = df[(df.iloc[:, 0] == 'Fernando') & (df['year'])]
+
+# Create a bar chart to display the information.
+fig = px.bar(filtered_df, x = 'year', y = 'Total', title = "Fernando's Name Famousness", color = 'year')
+fig.show() 
+```
+
+This table concludes showing the top three states using Fernando's name trhough the years, being number 1 CA, 2 TX, and 3 AZ. 
+
+```{python}
+# Filter data to get the name Fernando through the years.
+filtered_df = df.loc[df.iloc[:, 0] == 'Fernando', [df.columns[5], df.columns[6], df.columns[45], df.columns[53]]]
+
+# Sum up the columns to get the totals, and format the table.
+totals = filtered_df.sum()
+print(totals.to_frame().T
+      .to_markdown(index=False)
+)
+
+```
+
+## QUESTION|TASK 2
+
+If you talked to someone named Brittany on the phone, what is your guess of his or her age? What ages would you not guess?
+
+My guess is that she is 30 years old. According to the data my guess was really close to the true. 
+
+```{python}
+# Filter the data to get the name Brittany through the years.
+filtered_df = df[(df.iloc[:,0] == 'Brittany') & (df['year'])]
+
+# Print 5000 rows with a table formating.
+print(filtered_df
+  .head(50000)
+  .to_markdown(index=False))
+
+```
+
+This bar chart confirms that the hieghs amount of people named Brittany was in 1989, meaning that in 2024 this people is 34 years old.
+
+```{python}
+# Filter data to get the name Brittany throughout all the years.
+filtered_df = df[(df.iloc[:, 0] == 'Brittany') & (df['year'])]
+
+# Create a bar chart to display the information.
+fig = px.bar(filtered_df, x = 'year', y = 'Total', color = 'year', title = "Brittany is 34 Yeas Old!!", color_discrete_map= {'year': 'pink'})
+fig.show()
+```
+
+## QUESTION|TASK 3
+
+Mary, Martha, Peter, and Paul are all Christian names. From 1920 - 2000, compare the name usage of each of the four names. What trends do you notice?
+
+Since people started to know more about the Bible they started to used those names to named their childre. Mary has been the name that people has use the more to name their children.
+
+```{python}
+# Filter data to get data between 1920 and 2000
+filtered_df = df[(df["year"] >= 1920) & (df["year"] <= 2000)]
+
+# Filter and sum the total usage for each name
+mary = filtered_df[filtered_df["name"] == 'Mary'].groupby("year")["Total"].sum().reset_index()
+martha = filtered_df[filtered_df["name"] == 'Martha'].groupby("year")["Total"].sum().reset_index()
+peter = filtered_df[filtered_df["name"] == 'Peter'].groupby("year")["Total"].sum().reset_index()
+paul = filtered_df[filtered_df["name"] == 'Paul'].groupby("year")["Total"].sum().reset_index()
+
+# Concatenate the dataframes
+bar_data = pd.concat([mary.assign(name='Mary'), martha.assign(name='Martha'),
+                     peter.assign(name='Peter'), paul.assign(name='Paul')])
+
+# Create the bar chart
+fig = px.bar(bar_data, x="year", y="Total", color="name",
+             labels={'Total': 'Total Usage', 'year': 'Year'},
+             title="80 Years of Bible Names")
+fig.show()
+
+```
+
+
+## QUESTION|TASK 4
+
+Think of a unique name from a famous movie. Plot the usage of that name and see how changes line up with the movie release. Does it look like the movie had an effect on usage?
+
+It is crazy that Neo became famous when "The Matrix" movie was release in 1999.
+
+```{python}
+# Filter data to show Neo's through the years
+
+filtered_df = df[(df.iloc[:,0] == 'Neo') & (df['year'])]
+
+# Print 5000 rows with a table formating.
+print(filtered_df
+  .head(50000)
+  .to_markdown(index=False))
+
+```
+
+The bar chart below shows clearly that Neo started to be used in the year of the release of The Matrix.
+
+```{python}
+# Filter data to get Neo's Name and the year column.
+filtered_df = df[(df.iloc[:, 0] == 'Neo') & (df['year'])]
+
+# Creat a bar char to disply to data filtered.
+fig = px.bar(filtered_df, x = 'year', y = 'Total', color = "year", title = "The Matrix of Neo's")
+fig.show()
+```
+
