@@ -5,16 +5,7 @@ website:
   title: "Luis Fernando Mendoza Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: """My portfolio embodies a diverse journey through the realms of data analysis, 
-  SQL querying, and machine learning. Through projects ranging from exploring historical 
-  name usage to predicting income levels and classifying houses, I've showcased proficiency 
-  across various data science domains. With a keen eye for patterns, I've crafted compelling 
-  visualizations that unveil hidden insights, while my SQL skills have enabled me to extract 
-  valuable information from databases. Moreover, my machine learning models exhibit sophistication 
-  and accuracy, reflecting my mastery over predictive analytics. Meticulous data cleaning and formatting 
-  underscore my commitment to data integrity, while well-structured repositories and detailed documentation 
-  showcase my organizational prowess and communication skills. In essence, my portfolio reflects my passion 
-  for data exploration, analytical acumen, and dedication to excellence in the field of data science."""
+  repo-url: https://github.com/mendozalf/mendozalf.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
