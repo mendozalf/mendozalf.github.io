@@ -1,18 +1,75 @@
-# BYUI DS Portfolio Template
-## Building a Quarto Portfolo
+project: 
+  type: website
 
-A template for a portfolio developed with Quarto and hosted on GitHub.
+website:
+  title: "Luis Fernando Mendoza Data Science Portfolio"
+  favicon: Images/favicon.png
+  back-to-top-navigation: true
+  repo-url: https://github.com/mendozalf/mendozalf.github.io
+  #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
-This is all configured so you only need to edit the source files in Quarto (.qmd). The website is generated and hosted automatically by GitHub.
+  page-footer: 
+    border: true
+    left: "Luis Fernando Mendoza"
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lf-mendoza/
 
-## Using this template
+  navbar:
+    background: primary
+    search: true   
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "DS250 Projects"
+        file: projects.qmd
+      - text: "My Resume"
+        file: resume.qmd
+      - text: "Data Cleansing"
+        file: cleansing.qmd
+      - text: "Data Exploration"
+        file: exploration.qmd
+      - text: "Story Telling"
+        file: story_telling.qmd
+      - text: "Machine Learning"
+        file: ml.qmd
+      - text: "Full Stack"
+        file: full_stack.qmd
+      - text: "Competition"
+        file: competition.qmd
+      
+  sidebar:
+    - title: "DS 250 Projects"
+      style: "docked"
+      background: light
+      contents:
+        - text: "DS250 Projects"
+          file: projects.qmd
+        - text: "---"
+        - text: "Project 1"
+          file: Projects/project1.qmd
+        - text: "---"
+        - text: "Project 2"
+          file: Projects/project2.qmd
+        - text: "---"
+        - text: "Project 3"
+          file: Projects/project3.qmd
+        - text: "---"
+        - text: "Project 4"
+          file: Projects/project4.qmd
+        - text: "---"
+        - text: "Project 5"
+          file: Projects/project5.qmd
+        - text: "---"
+        #continue the pattern if you need more links
+        #copy paste from title and keep it indented to sidebar to add additonal sidebar navigation for other pages
 
-1. Click on green button "Use this Tempalte" -> "Create a new Repo"
-
-1. Choose a name for your repository
-
-1. Important: check 'Include all branches' when creating the repository (because we will need the gh-pages branch to host the website).
-
-1. Once your repo is created, remember to update the links to your GitHub repo in _quarto.yml, replacing every instance 'your_name'.
-
-1. The first time you publish to your repo use this command line string `quarto publish gh-pages` in the vs code terminal.
+format:  
+  html:
+    theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)
+      light: flatly # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
+      dark: darkly
+      #light: cosmo
+      #dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    toc: true
