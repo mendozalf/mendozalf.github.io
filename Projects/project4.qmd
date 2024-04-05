@@ -43,7 +43,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn import metrics
 from sklearn import tree
 from sklearn.metrics import confusion_matrix
-from xgboost import XGBClassifier
+
 ```
 
 
